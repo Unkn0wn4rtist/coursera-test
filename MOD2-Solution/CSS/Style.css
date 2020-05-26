@@ -20,13 +20,12 @@
     text-align: center;
     width:160px;
     float: right;
-     
+    font-size: 175%;
   }
 
 
   p {
-    
-    padding: 10px;
+    padding: 10PX;
     clear: both;
     font-size: 125%;
   }
@@ -36,6 +35,7 @@
     background-color: gray;
     margin: 20px;
     border: 1px solid black;
+    
     }
 
 
